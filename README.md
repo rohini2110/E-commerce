@@ -31,11 +31,11 @@ Project DEMO URL : https://lively-hill-0fff94710.1.azurestaticapps.net/#
 
 Project Screenshots : 
 
-   ![Screenshot (28)](https://user-images.githubusercontent.com/82580875/151164275-1d6c6a51-0c23-4803-8e9d-2eb48a01ebd9.png)
-   ![Screenshot (29)](https://user-images.githubusercontent.com/82580875/151164293-9355c81c-1a80-4c7e-8b95-41a02b87218f.png)
-   ![Screenshot (30)](https://user-images.githubusercontent.com/82580875/151164588-dbf02b46-e238-47c5-8c90-829ca0660bf8.png)
-   ![Screenshot (31)](https://user-images.githubusercontent.com/82580875/151164361-42eb4b38-f61b-482a-bac2-dc75de6c37de.png)
-   ![Screenshot (32)](https://user-images.githubusercontent.com/82580875/151164370-7f2a66bc-ce4e-4218-8256-059f0282964f.png)
+   ![Screenshot (1)](https://user-images.githubusercontent.com/82580875/151164275-1d6c6a51-0c23-4803-8e9d-2eb48a01ebd9.png)
+   ![Screenshot (2)](https://user-images.githubusercontent.com/82580875/151164293-9355c81c-1a80-4c7e-8b95-41a02b87218f.png)
+   ![Screenshot (3)](https://user-images.githubusercontent.com/82580875/151164588-dbf02b46-e238-47c5-8c90-829ca0660bf8.png)
+   ![Screenshot (4)](https://user-images.githubusercontent.com/82580875/151164361-42eb4b38-f61b-482a-bac2-dc75de6c37de.png)
+   ![Screenshot (5)](https://user-images.githubusercontent.com/82580875/151164370-7f2a66bc-ce4e-4218-8256-059f0282964f.png)
 
-Project Video Demo URL : 
+Project Video Demo URL : https://drive.google.com/file/d/10ZVnCfblz8lC3ThGBZcZ5LIn7WepweF6/view?usp=drivesdk
 
