@@ -25,7 +25,7 @@ Problem Description : The solution to the problem is done by using microsoft azu
 
 Primary Azure Technology : Static Web Apps
 
-Project Link (GitHub repository URL) : 
+Project Link (GitHub repository URL) : https://github.com/9347617450/Grow-cery
 
 Project DEMO URL : https://lively-hill-0fff94710.1.azurestaticapps.net/#
 
